@@ -1,1 +1,3 @@
 Test GIT Quick start demo - edited in mynewbranch
+Updated text in main branch
+Adding more text for checking conflict
