@@ -1,8 +1,5 @@
 Test GIT Quick start demo - edited in mynewbranch
-<<<<<<< HEAD
 Adding text to validate the conflict
 This is how it should be
-=======
-
 Adding more text for checking conflict
->>>>>>> mynewbranch
+
