@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Test GIT Quick start demo - edited in mynewbranch
 Adding text to validate the conflict
 This is how it should be
 Adding more text for checking conflict
 
+=======
+Test GIT Quick start demo
+It has been changed
+>>>>>>> e17bf49610d08958cb376a07f744b9a97804b72d
